@@ -1,0 +1,14 @@
+{ "member": [
+        {
+            "id": "n1",
+            "uid": "6021603087",
+            "name": "Jirayut",
+            "lastname": "NITTAYASUK",
+            "nickname": "Eyy",
+            "email": "jirayut.ni@outlook.com",
+            "phone": "(+66)64-2918880",
+            "birth": "10-12-1998",
+            "image": "https://scontent.fbkk22-8.fna.fbcdn.net/v/t1.6435-9/245302059_3009066132701352_9203950732859389983_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=EGfzlrKTZvQAX94fV09&_nc_ht=scontent.fbkk22-8.fna&oh=00a7ab640ee27689d09500d968cfc390&oe=618958F4"
+        }
+    ]
+}
